@@ -1,2 +1,2 @@
 # Birthday-Reminder
-basic birthday remainder UI with React
+basic birthday reminder UI with React
